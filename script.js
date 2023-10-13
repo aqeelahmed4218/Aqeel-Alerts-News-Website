@@ -1,4 +1,5 @@
-const API_KEY = "d81b46c8c8a34d51a6ef1041bd2ed9f8";
+// const API_KEY = "d81b46c8c8a34d51a6ef1041bd2ed9f8";
+const API_KEY = "3e9626e6ca0f4ff1a2da1f1fe61c53ce";
 const url = "https://newsapi.org/v2/everything?q=";
 
 window.addEventListener('load', () => fectchNews('Pakistan'));
